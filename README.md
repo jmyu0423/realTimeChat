@@ -1,7 +1,7 @@
-#install
+# install
 - npm install nodemon
 
-#config
+# config
 - const ENDPOINT = 'http://localhost:5000/'; //서버의 포트번호와 일치 해야함
 - // const ENDPOINT = 'https://project-chat-application.herokuapp.com/';
 
